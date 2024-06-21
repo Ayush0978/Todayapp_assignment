@@ -19,7 +19,7 @@ Make sure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/devansh193/todayApp-assignment.git
+   git clone https://github.com/Ayush0978/Todayapp_assignment.git
 
 2. **Navigate to the project directory:**
 
