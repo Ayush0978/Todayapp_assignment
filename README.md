@@ -21,7 +21,7 @@ Make sure you have the following installed:
 2. **Navigate to the project directory:**
 
    ```bash
-   cd todayApp-assignment
+   cd TodayApp-assignment
 
 4. **Install the dependencies:**
      ```bash
