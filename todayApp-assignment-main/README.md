@@ -1,6 +1,4 @@
-# Next.js App
 
-This app is deployed at: https://today-app-assignment-mb6g4dg13-devansh193s-projects.vercel.app/
 
 ## Getting Started
 
@@ -23,7 +21,7 @@ Make sure you have the following installed:
 2. **Navigate to the project directory:**
 
    ```bash
-   cd todayApp-assignment
+   cd TodayApp-assignment
 
 4. **Install the dependencies:**
      ```bash
